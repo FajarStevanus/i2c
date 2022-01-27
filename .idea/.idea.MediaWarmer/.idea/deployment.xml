@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="media-warmer" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="media-warmer">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$/App/App.csproj" web="/" />
+            <mapping local="$PROJECT_DIR$/App/Program.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/App/obj/Debug/net5.0/App.AssemblyInfo.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/Device/Device.csproj" web="/" />
+            <mapping local="$PROJECT_DIR$/Device/I2cDeviceBase.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/Device/LuxSensor.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/Device/TemperatureSensor.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/Device/obj/Debug/net5.0/Device.AssemblyInfo.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/MediaWarmer.sln" web="/" />
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>

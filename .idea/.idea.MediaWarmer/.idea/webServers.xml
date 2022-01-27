@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="962b2cf6-5b84-410a-ba8b-c1fa0ec7cab0" name="media-warmer">
+        <fileTransfer rootFolder="/home/pi/sensor" accessType="SFTP" host="10.100.2.66" port="22" sshConfigId="8b1c37dc-ced3-41d9-abf3-5aea65976a0a" sshConfig="pi@10.100.2.66:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
